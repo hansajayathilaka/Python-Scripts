@@ -1,0 +1,10 @@
+How to Download Files in Python
+To download a file using Python:
+
+    pip3 install -r requirements.txt
+
+    python download.py https://download.winzip.com/gl/nkln/winzip24-downwz.exe
+
+    This will start downloading the file and outputs something like this:
+
+    Downloading winzip24-downwz.exe:   6%|█████▏                                                                         | 
